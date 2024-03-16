@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695862660363",
+    "project_id": "delivery-ffded",
+    "storage_bucket": "delivery-ffded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695862660363:android:870169e448abb4a98f660e",
+        "android_client_info": {
+          "package_name": "com.foodapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYNTlhb0Pzgvbrp3RjWKFB_UfKy7gFHjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
