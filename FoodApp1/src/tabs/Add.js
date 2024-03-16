@@ -119,7 +119,6 @@ const Add = () => {
                     value={description}
                     onChangeText={setDescription}
                 />
-                <Text style={{ alignSelf: 'center', marginTop: 20 }}>OR</Text>
                 <TouchableOpacity style={styles.pickBtn} onPress={requestCameraPermission}>
                     <Text style={{ color: '#999999' }}>Pick Image From Gallery</Text>
                 </TouchableOpacity>
@@ -249,7 +248,7 @@ const styles = StyleSheet.create({
     modalText: {
         marginBottom: 15,
         textAlign: 'center',
-        color:'#000',
+        color: '#000',
     },
 });
 
